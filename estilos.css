@@ -25,15 +25,15 @@ nav a:hover{
     box-shadow: 0 0 10px rgb(0, 0, 130.1);
 }
 .contenedor h2{
-    color: #4c4745;
+    color: #3df909;
 }
 .contenedor p{
-    color: rgb(59, 54, 54);
+    color: rgb(52, 247, 9);
     font-size: 16px;
     line-height: 1.6;
 }
 footer{
-    background-color: #333;
+    background-color: #08f7ef;
     color: white;
     text-align: center;
     padding: 10px 0;
